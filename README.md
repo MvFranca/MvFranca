@@ -1,4 +1,4 @@
-### Olá! Eu sou o Marcos França.🫶
+### Hello! I am Marcos França, Front-End Developer🫶
 
 <hr>
 
